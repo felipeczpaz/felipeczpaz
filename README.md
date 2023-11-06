@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Felipe Cezar Paz</h1>
+<h1 align="center">Hey 👋, I'm Felipe Cezar Paz</h1>
 <h3 align="center">C/C++, Python and JS Developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeczpaz&label=Profile%20views&color=0e75b6&style=flat" alt="felipeczpaz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipeczpaz" alt="felipeczpaz" /></a> </p>
 
 - 🔭 I’m currently working on [FlowHooks-GUI](https://github.com/felipeczpaz/FlowHooks-GUI)
 
