@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeczpaz&label=Profile%20views&color=0e75b6&style=flat" alt="felipeczpaz" /> </p>
 
-- 🔭 I’m currently working on [FlowHooks-GUI](https://github.com/felipeczpaz/FlowHooks-GUI)
+- 🔭 I’m currently working on [Lottery](https://github.com/felipeczpaz/Lottery)
 
 - 📫 How to reach me **contact@felipecezar.com**
 
