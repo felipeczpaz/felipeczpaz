@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Felipe Cezar Paz</h1>
-<h3 align="center">C/C++, Python and JS Developer from Brazil.</h3>
+<h3 align="center">C/C++, Python and TS Developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeczpaz&label=Profile%20views&color=0e75b6&style=flat" alt="felipeczpaz" /> </p>
 
